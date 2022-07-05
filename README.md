@@ -12,7 +12,7 @@ npm install
 You will only need the following input:
 - Your bot token
 
-As listed above, you will find a guide where to find your bot token. If you still don't know where or how to make one, use this simple guide [here].(https://www.writebots.com/discord-bot-token/)
+As listed above, you will find a guide where to find your bot token. If you still don't know where or how to make one, use this simple guide [here](https://www.writebots.com/discord-bot-token/).
 
 ### Usage
 To start the script just simply use the following command in the terminal.
