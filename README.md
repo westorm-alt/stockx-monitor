@@ -19,6 +19,11 @@ To start the script just simply use the following command in the terminal.
 ```
 node index.js
 ```
+Then, in your preferred channel, input the following command.
+```
+!stockx https://stockx.com/it-it/nike-dunk-low-retro-white-black-2021 5 230
+```
+In order, input the product link, the size (in US) and the desired price in ask.
 
 ### Features 
 You can setup:
