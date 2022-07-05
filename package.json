@@ -1,0 +1,22 @@
+{
+  "name": "stockx-monitor",
+  "version": "1.0.0",
+  "description": "A Stockx Monitor that helps you find the better deal. | @bottingoursite",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Westorm",
+  "license": "ISC",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "console-stamp": "^3.0.6",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "node-fetch": "^3.2.6",
+    "request": "^2.88.2",
+    "tls": "0.0.1",
+    "user-agents": "^1.0.1059"
+  }
+}
