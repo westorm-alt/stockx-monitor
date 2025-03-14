@@ -49,12 +49,6 @@ If you want to fork this repository, feel free to. I will make some updates in t
 
 I'm quite lazy as I could have done it earlier but oh well.
 
-### Author
-- Westorm - [Twitter](https://twitter.com/bottingoursite) | Dean Martin - [Twitter](https://twitter.com/deanmartinang)
-
-If you want to support me, you can donate here.
-
-- [Buy Me a Coffee](https://www.buymeacoffee.com/westorm)
 ### Issues and Feedback
 - Please let me know if you want anything to change! Open a request for any issues or feedback.
 
